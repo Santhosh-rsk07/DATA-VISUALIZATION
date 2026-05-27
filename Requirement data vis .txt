@@ -1,0 +1,6 @@
+matplotlib
+numpy
+seaborn
+basemap
+mpl_toolkits
+GoogleColab
